@@ -1,0 +1,7 @@
+h1 {
+	text-align: center;
+}
+#chart_div {
+	display: table;
+	margin: 0 auto;
+}
